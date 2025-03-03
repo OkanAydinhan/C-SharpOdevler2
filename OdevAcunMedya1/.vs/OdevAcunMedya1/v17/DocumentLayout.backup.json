@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\90534\\Desktop\\OdevAcunMedya1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{531C1B88-DD7C-4F07-B47D-9C6AB135397D}|OdevAcunMedya1\\OdevAcunMedya1.csproj|c:\\users\\90534\\desktop\\odevacunmedya1\\odevacunmedya1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531C1B88-DD7C-4F07-B47D-9C6AB135397D}|OdevAcunMedya1\\OdevAcunMedya1.csproj|solutionrelative:odevacunmedya1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531C1B88-DD7C-4F07-B47D-9C6AB135397D}|OdevAcunMedya1\\OdevAcunMedya1.csproj|c:\\users\\90534\\desktop\\odevacunmedya1\\odevacunmedya1\\interfaces\\iucabilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531C1B88-DD7C-4F07-B47D-9C6AB135397D}|OdevAcunMedya1\\OdevAcunMedya1.csproj|solutionrelative:odevacunmedya1\\interfaces\\iucabilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531C1B88-DD7C-4F07-B47D-9C6AB135397D}|OdevAcunMedya1\\OdevAcunMedya1.csproj|c:\\users\\90534\\desktop\\odevacunmedya1\\odevacunmedya1\\classes\\porche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531C1B88-DD7C-4F07-B47D-9C6AB135397D}|OdevAcunMedya1\\OdevAcunMedya1.csproj|solutionrelative:odevacunmedya1\\classes\\porche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531C1B88-DD7C-4F07-B47D-9C6AB135397D}|OdevAcunMedya1\\OdevAcunMedya1.csproj|c:\\users\\90534\\desktop\\odevacunmedya1\\odevacunmedya1\\classes\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531C1B88-DD7C-4F07-B47D-9C6AB135397D}|OdevAcunMedya1\\OdevAcunMedya1.csproj|solutionrelative:odevacunmedya1\\classes\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531C1B88-DD7C-4F07-B47D-9C6AB135397D}|OdevAcunMedya1\\OdevAcunMedya1.csproj|c:\\users\\90534\\desktop\\odevacunmedya1\\odevacunmedya1\\classes\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531C1B88-DD7C-4F07-B47D-9C6AB135397D}|OdevAcunMedya1\\OdevAcunMedya1.csproj|solutionrelative:odevacunmedya1\\classes\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531C1B88-DD7C-4F07-B47D-9C6AB135397D}|OdevAcunMedya1\\OdevAcunMedya1.csproj|c:\\users\\90534\\desktop\\odevacunmedya1\\odevacunmedya1\\interfaces\\iyuzebilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531C1B88-DD7C-4F07-B47D-9C6AB135397D}|OdevAcunMedya1\\OdevAcunMedya1.csproj|solutionrelative:odevacunmedya1\\interfaces\\iyuzebilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531C1B88-DD7C-4F07-B47D-9C6AB135397D}|OdevAcunMedya1\\OdevAcunMedya1.csproj|c:\\users\\90534\\desktop\\odevacunmedya1\\odevacunmedya1\\interfaces\\icokhizligidebilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531C1B88-DD7C-4F07-B47D-9C6AB135397D}|OdevAcunMedya1\\OdevAcunMedya1.csproj|solutionrelative:odevacunmedya1\\interfaces\\icokhizligidebilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531C1B88-DD7C-4F07-B47D-9C6AB135397D}|OdevAcunMedya1\\OdevAcunMedya1.csproj|c:\\users\\90534\\desktop\\odevacunmedya1\\odevacunmedya1\\classes\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531C1B88-DD7C-4F07-B47D-9C6AB135397D}|OdevAcunMedya1\\OdevAcunMedya1.csproj|solutionrelative:odevacunmedya1\\classes\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531C1B88-DD7C-4F07-B47D-9C6AB135397D}|OdevAcunMedya1\\OdevAcunMedya1.csproj|c:\\users\\90534\\desktop\\odevacunmedya1\\odevacunmedya1\\odevacunmedya1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{531C1B88-DD7C-4F07-B47D-9C6AB135397D}|OdevAcunMedya1\\OdevAcunMedya1.csproj|solutionrelative:odevacunmedya1\\odevacunmedya1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531C1B88-DD7C-4F07-B47D-9C6AB135397D}|OdevAcunMedya1\\OdevAcunMedya1.csproj|c:\\users\\90534\\desktop\\odevacunmedya1\\odevacunmedya1\\odevacunmedya1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{531C1B88-DD7C-4F07-B47D-9C6AB135397D}|OdevAcunMedya1\\OdevAcunMedya1.csproj|solutionrelative:odevacunmedya1\\odevacunmedya1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Porche.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\OdevAcunMedya1\\OdevAcunMedya1\\Classes\\Porche.cs",
+              "RelativeDocumentMoniker": "OdevAcunMedya1\\Classes\\Porche.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\OdevAcunMedya1\\OdevAcunMedya1\\Classes\\Porche.cs",
+              "RelativeToolTip": "OdevAcunMedya1\\Classes\\Porche.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T21:21:42.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mercedes.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\OdevAcunMedya1\\OdevAcunMedya1\\Classes\\Mercedes.cs",
+              "RelativeDocumentMoniker": "OdevAcunMedya1\\Classes\\Mercedes.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\OdevAcunMedya1\\OdevAcunMedya1\\Classes\\Mercedes.cs",
+              "RelativeToolTip": "OdevAcunMedya1\\Classes\\Mercedes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T21:19:05.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bmw.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\OdevAcunMedya1\\OdevAcunMedya1\\Classes\\Bmw.cs",
+              "RelativeDocumentMoniker": "OdevAcunMedya1\\Classes\\Bmw.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\OdevAcunMedya1\\OdevAcunMedya1\\Classes\\Bmw.cs",
+              "RelativeToolTip": "OdevAcunMedya1\\Classes\\Bmw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T21:14:00.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUcabilir.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\OdevAcunMedya1\\OdevAcunMedya1\\Interfaces\\IUcabilir.cs",
+              "RelativeDocumentMoniker": "OdevAcunMedya1\\Interfaces\\IUcabilir.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\OdevAcunMedya1\\OdevAcunMedya1\\Interfaces\\IUcabilir.cs",
+              "RelativeToolTip": "OdevAcunMedya1\\Interfaces\\IUcabilir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T21:12:38.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IYuzebilir.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\OdevAcunMedya1\\OdevAcunMedya1\\Interfaces\\IYuzebilir.cs",
+              "RelativeDocumentMoniker": "OdevAcunMedya1\\Interfaces\\IYuzebilir.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\OdevAcunMedya1\\OdevAcunMedya1\\Interfaces\\IYuzebilir.cs",
+              "RelativeToolTip": "OdevAcunMedya1\\Interfaces\\IYuzebilir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T21:07:30.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICokHizliGidebilir.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\OdevAcunMedya1\\OdevAcunMedya1\\Interfaces\\ICokHizliGidebilir.cs",
+              "RelativeDocumentMoniker": "OdevAcunMedya1\\Interfaces\\ICokHizliGidebilir.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\OdevAcunMedya1\\OdevAcunMedya1\\Interfaces\\ICokHizliGidebilir.cs",
+              "RelativeToolTip": "OdevAcunMedya1\\Interfaces\\ICokHizliGidebilir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T21:05:21.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\OdevAcunMedya1\\OdevAcunMedya1\\Classes\\Araba.cs",
+              "RelativeDocumentMoniker": "OdevAcunMedya1\\Classes\\Araba.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\OdevAcunMedya1\\OdevAcunMedya1\\Classes\\Araba.cs",
+              "RelativeToolTip": "OdevAcunMedya1\\Classes\\Araba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T21:03:36.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OdevAcunMedya1",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\OdevAcunMedya1\\OdevAcunMedya1\\OdevAcunMedya1.csproj",
+              "RelativeDocumentMoniker": "OdevAcunMedya1\\OdevAcunMedya1.csproj",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\OdevAcunMedya1\\OdevAcunMedya1\\OdevAcunMedya1.csproj",
+              "RelativeToolTip": "OdevAcunMedya1\\OdevAcunMedya1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T21:00:26.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OdevAcunMedya1",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\OdevAcunMedya1\\OdevAcunMedya1\\OdevAcunMedya1.csproj",
+              "RelativeDocumentMoniker": "OdevAcunMedya1\\OdevAcunMedya1.csproj",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\OdevAcunMedya1\\OdevAcunMedya1\\OdevAcunMedya1.csproj",
+              "RelativeToolTip": "OdevAcunMedya1\\OdevAcunMedya1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T20:49:14.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\Desktop\\OdevAcunMedya1\\OdevAcunMedya1\\Program.cs",
+              "RelativeDocumentMoniker": "OdevAcunMedya1\\Program.cs",
+              "ToolTip": "C:\\Users\\90534\\Desktop\\OdevAcunMedya1\\OdevAcunMedya1\\Program.cs",
+              "RelativeToolTip": "OdevAcunMedya1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T20:48:58.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
